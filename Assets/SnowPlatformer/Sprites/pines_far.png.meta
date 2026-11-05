@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 6108c56ce2901d5469f12e317fd72df3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6114972314750905601
+    second: pines_far_0
+  - first:
+      213: 4756371910039916766
+    second: pines_far_1
+  - first:
+      213: 3450696554758086339
+    second: pines_far_2
+  - first:
+      213: -6454189433774012973
+    second: pines_far_3
+  - first:
+      213: -4888956698829527053
+    second: pines_far_4
+  - first:
+      213: 5760916736371207690
+    second: pines_far_5
+  - first:
+      213: -1792856868099284380
+    second: pines_far_6
+  - first:
+      213: -6964940453751732532
+    second: pines_far_7
+  - first:
+      213: 6452155337808353701
+    second: pines_far_8
+  - first:
+      213: -7943276656088304984
+    second: pines_far_9
+  - first:
+      213: 198995345446550093
+    second: pines_far_10
+  - first:
+      213: -8632507778514663517
+    second: pines_far_11
+  - first:
+      213: -8697910552101747601
+    second: pines_far_12
+  - first:
+      213: -6686886611495945869
+    second: pines_far_13
+  - first:
+      213: 7944811229163231423
+    second: pines_far_14
+  - first:
+      213: 8378858184535717852
+    second: pines_far_15
+  - first:
+      213: 8818652671793077111
+    second: pines_far_16
+  - first:
+      213: -2976862613915585369
+    second: pines_far_17
+  - first:
+      213: 2967463345083252168
+    second: pines_far_18
+  - first:
+      213: -3770012313861401310
+    second: pines_far_19
+  - first:
+      213: 8693613086459573212
+    second: pines_far_20
+  - first:
+      213: -2693845071497050337
+    second: pines_far_21
+  - first:
+      213: 8559718602474057853
+    second: pines_far_22
+  - first:
+      213: -2284863166214829402
+    second: pines_far_23
+  - first:
+      213: 2304833078793837466
+    second: pines_far_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pines_far_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 53
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d6318fbeebcd450800000000000000
+      internalID: 6114972314750905601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 176
+        width: 106
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed053954d07020240800000000000000
+      internalID: 4756371910039916766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 176
+        width: 94
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce1506eb3653ef20800000000000000
+      internalID: 3450696554758086339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 176
+        width: 114
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d502ded7ec1e66a0800000000000000
+      internalID: -6454189433774012973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 176
+        width: 124
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7eff309cfe62cb0800000000000000
+      internalID: -4888956698829527053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 176
+        width: 112
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2204cf33e2ff40800000000000000
+      internalID: 5760916736371207690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 176
+        width: 126
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a2db6d2e7e17e0800000000000000
+      internalID: -1792856868099284380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_7
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 176
+        width: 110
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc641642f8f875f90800000000000000
+      internalID: -6964940453751732532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_8
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 176
+        width: 100
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a915b14819aa8950800000000000000
+      internalID: 6452155337808353701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 176
+        width: 110
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2343177ffc3c190800000000000000
+      internalID: -7943276656088304984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_10
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 176
+        width: 102
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3c4d5639f2c200800000000000000
+      internalID: 198995345446550093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_11
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 176
+        width: 96
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a746d499eb233880800000000000000
+      internalID: -8632507778514663517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_12
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 176
+        width: 110
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f648ad5bf60da4780800000000000000
+      internalID: -8697910552101747601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_13
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 176
+        width: 104
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f7743e086333a0800000000000000
+      internalID: -6686886611495945869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_14
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 176
+        width: 116
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb81fc138b3a14e60800000000000000
+      internalID: 7944811229163231423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_15
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 176
+        width: 92
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd730a0302fa74470800000000000000
+      internalID: 8378858184535717852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_16
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 176
+        width: 108
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b96cbb1e5226a70800000000000000
+      internalID: 8818652671793077111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_17
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 176
+        width: 106
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4bb68893f00b6d0800000000000000
+      internalID: -2976862613915585369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_18
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 176
+        width: 106
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdfda7a03c8e2920800000000000000
+      internalID: 2967463345083252168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_19
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 176
+        width: 104
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225517166c93eabc0800000000000000
+      internalID: -3770012313861401310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_20
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 176
+        width: 120
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd33c199a0be5a870800000000000000
+      internalID: 8693613086459573212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_21
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 176
+        width: 225
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f174b791e2a8d9ad0800000000000000
+      internalID: -2693845071497050337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_22
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 176
+        width: 108
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70f4c5b7ba3ac670800000000000000
+      internalID: 8559718602474057853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_23
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 176
+        width: 116
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa04695e098a40e0800000000000000
+      internalID: -2284863166214829402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pines_far_24
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 176
+        width: 45
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b931049796cff10800000000000000
+      internalID: 2304833078793837466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pines_far_0: 6114972314750905601
+      pines_far_1: 4756371910039916766
+      pines_far_10: 198995345446550093
+      pines_far_11: -8632507778514663517
+      pines_far_12: -8697910552101747601
+      pines_far_13: -6686886611495945869
+      pines_far_14: 7944811229163231423
+      pines_far_15: 8378858184535717852
+      pines_far_16: 8818652671793077111
+      pines_far_17: -2976862613915585369
+      pines_far_18: 2967463345083252168
+      pines_far_19: -3770012313861401310
+      pines_far_2: 3450696554758086339
+      pines_far_20: 8693613086459573212
+      pines_far_21: -2693845071497050337
+      pines_far_22: 8559718602474057853
+      pines_far_23: -2284863166214829402
+      pines_far_24: 2304833078793837466
+      pines_far_3: -6454189433774012973
+      pines_far_4: -4888956698829527053
+      pines_far_5: 5760916736371207690
+      pines_far_6: -1792856868099284380
+      pines_far_7: -6964940453751732532
+      pines_far_8: 6452155337808353701
+      pines_far_9: -7943276656088304984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
